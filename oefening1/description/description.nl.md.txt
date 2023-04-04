@@ -1,1 +1,0 @@
-Schrijf een code die de gebruiker vraagt om twee gehele getallen in te voeren. Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
