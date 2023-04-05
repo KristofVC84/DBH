@@ -2,7 +2,7 @@
 
 ## Gevraagd:
 
-* Schrijf een programma dat de tafel van een bepaald getal toont (beginnen bij '1 maal' en eindigend bij '20 maal')
+* Schrijf een programma dat de tafel van een bepaald getal toont (beginnen bij '1 maal' en eindigend bij '20 maal').
 
 ## Invoer:
 ```
