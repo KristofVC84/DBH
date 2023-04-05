@@ -1,21 +1,17 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
-
-## Gegeven:
-
-Lees aandachtig de instructies!
+# Persoonlijke verwelkoming met naam en leeftijd
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een code dat eerst naar jouw naam vraagt en nadien naar jouw leeftijd. De begroeting moet nadien getoond worden.
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Wat is jouw naam?:
+Hoe oud ben je?:
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+De begroeting moet als volgt getoond worden:
 ```
-De som van 4² en 2³ is gelijk aan ...
+Dag ...... . Je bent ..... jaar.
+```
