@@ -1,21 +1,18 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
-
-## Gegeven:
-
-Lees aandachtig de instructies!
+# De vergelijking van een rechte opstellen als de rico en één punt gekend zijn
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma dat de vergelijking van een rechte opstelt op basis van een gekende rico en één gegeven punt.
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Wat is de richtingscoëfficiënt van de rechte?:
+Wat is de x-coördinaat van het punt waardoor de rechte moet lopen?:  2
+Wat is de y-coördinaat van het punt waardoor de rechte moet lopen?:  -1
+
 ```
 
-## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+## Uitvoer: 
 ```
-De som van 4² en 2³ is gelijk aan ...
+
+```
