@@ -18,5 +18,5 @@ Welke bewerking wil je uitvoeren (s/p/v)?:
 ## Uitvoer:
 
 ```
-De som van de twee gekozen getallen is ...
+De som van de twee gekozen getallen is gelijk aan ...
 ```
