@@ -1,21 +1,18 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
-
-## Gegeven:
-
-Lees aandachtig de instructies!
+# Startkapitaal en intrest
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma dat naar een startkapitaal en het jaarlijkse rentepercentage vraagt. 
+* Vervolgens moet er getoond worden welk bedrag je gespaard hebt na 1,2,…10 jaar.
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Wat is jouw startkapitaal?:
+Hoeveel % intrest krijg je jaarlijks?:
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
 ```
-De som van 4² en 2³ is gelijk aan ...
+Op het einde van jaar 1 heb je ... euro.
+Op het einde van jaar 2 heb je ... euro.
+```
