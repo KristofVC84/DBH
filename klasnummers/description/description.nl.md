@@ -4,7 +4,7 @@
 
 In sommige klassen wordt elke week een andere leerling aangeduid om bijvoorbeeld het bord af te vegen.
 
-* Vraag aan de gebruiker achtereenvolgens naar de grootte van de klas én het weeknummer van het schooljaar. (week 1 is bvb. de eerste week van september)
+* Vraag aan de gebruiker achtereenvolgens naar de grootte van de klas én het weeknummer van het schooljaar. (week 1 is de eerste week van september)
 * Het programma geeft het volgnummer van de leerling met dienst terug. In een klas zitten steeds minstens twee leerlingen!
 
 * Voorbeeld voor een klas met 5 leerlingen:
