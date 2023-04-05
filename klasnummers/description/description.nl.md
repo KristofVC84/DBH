@@ -9,7 +9,7 @@ In sommige klassen wordt elke week een andere leerling aangeduid om bijvoorbeeld
 
 * Voorbeeld voor een klas met 5 leerlingen:
  
-  In week 1 is leerling 1 van dienst. In week 2 is leerling 2 van dienst...In week 6 is leerling 1 opnieuw van dienst.
+  In week 1 is leerling 1 van dienst. In week 2 is leerling 2 van dienst... In week 6 is leerling 1 opnieuw van dienst.
 
 ## Invoer:
 ```
