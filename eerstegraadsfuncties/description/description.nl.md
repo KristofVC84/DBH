@@ -8,14 +8,16 @@
 * De nulwaarde moet weergegeven worden.
 * Je moet de functiewaarde kunnen berekenen voor een gegeven invoerwaarde
 
-## Invoer:
+## Invoer en uitvoer:
 ```
-Kies een waarde voor m: 
-Kies een waarde voor q:
+Kies een waarde voor de richtingscoëfficiënt m: 2
+Kies een waarde voor de constante term q: 3
+Het functievoorschrift van deze rechte is dan ‘y = 2x + 3’.
+Dit is een stijgende rechte die de y-as snijdt in (0,3).
+De nulwaarde van deze functie is ‘x = -3/2’
+Ik wil de functiewaarde berekenen voor de invoerwaarde x = 11
+f(11) = 25
+
 ```
 
-## Uitvoer:
 
-```
-
-```
