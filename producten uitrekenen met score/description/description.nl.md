@@ -8,19 +8,24 @@
 
 ## Invoer en uitvoer:
 ```
-2.7 = 14
+2.7 = 
+Mijn antwoord: 14
 Goed zo!
 
-12.6 = 72
+12.6 = 
+Mijn antwoord: 72
 Goed zo!
 
-19.3 = 54
+19.3 = 
+Mijn antwoord: 54
 Fout! 
 
-6.8 = 48
+6.8 = 
+Mijn antwoord: 48
 Goed zo!
 
-7.9 = 61
+7.9 = 
+Mijn antwoord: 61
 Fout!
 
 Je behaalde 3 op 5.
