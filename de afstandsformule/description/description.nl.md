@@ -1,21 +1,22 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
-
-## Gegeven:
-
-Lees aandachtig de instructies!
+# De afstandsformule
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma dat vraagt om de x-coördinaat en y-coördinaat van punt A in te voeren.
+* Vervolgens vraagt het programma om ook de x-coördinaat en y-coördinaat van punt B in te voeren.
+* De afstand tussen de punten A en B wordt getoond.
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Wat is de x-coördinaat van punt A?: 2
+Wat is de y-coördinaat van punt A?: -3
+
+Wat is de x-coördinaat van punt B?: 4
+Wat is de y-coördinaat van punt B?: 5
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+
 ```
-De som van 4² en 2³ is gelijk aan ...
+De afstand tussen de punten A(2,-3) en B(4,5) is 6,32.
+```
