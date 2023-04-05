@@ -1,20 +1,11 @@
 {
-  "type": "exercise",
-  "programming_language": "python",
-  "access": "public",
   "description": {
     "names": {
-      "nl": "Wiskundige bewerkingen",
-      "en": "Math exercises"
+      "en": "Aeneid",
+      "nl": "Aeneis"
     }
   },
-  "evaluation": {
-    "handler": "python",
-    "image": "dodona/dodona-python",
-    "time_limit": 10,
-    "memory_limit": 10000000,
-    "network_enabled": true
-  },
-  "labels": ["voorbeeld", "wiskundige bewerkingen"],
-  "contact": "KVC <johanzzzzzzzz@hotmail.com>"
+  "type": "content",
+  "access": "public",
+  "labels": ["test", "intro"]
 }
