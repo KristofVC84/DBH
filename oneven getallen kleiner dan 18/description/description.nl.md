@@ -1,21 +1,24 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
-
-## Gegeven:
-
-Lees aandachtig de instructies!
+# De oneven getallen kleiner dan 18
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma dat alle oneven getallen afdrukt die kleiner zijn dan 18.
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+
 ```
-De som van 4² en 2³ is gelijk aan ...
+1
+3
+5
+7
+9
+11
+13
+15
+17
+```
