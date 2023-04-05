@@ -2,20 +2,23 @@
 
 ## Gevraagd:
 
-* Vraag aan de gebruiker achtereenvolgens de grootte van de klas en het weeknummer op. 
-* Het programma geeft het volgnummer van de leerling met borddienst terug. In een klas zitten steeds minstens twee leerlingen!
+In sommige klassen wordt elke week een andere leerling aangeduid om bijvoorbeeld het bord af te vegen.
+
+* Vraag aan de gebruiker achtereenvolgens naar de grootte van de klas én het weeknummer.
+* Het programma geeft het volgnummer van de leerling met dienst terug. In een klas zitten steeds minstens twee leerlingen!
+
 * Voorbeeld voor een klas met 5 leerlingen:
  
-  In week 1 is leerling 1 van dienst. In week 2 is leerling 2 van dienst,...In week 6 is leerling 1 opnieuw van dienst.
+  In week 1 is leerling 1 van dienst. In week 2 is leerling 2 van dienst...In week 6 is leerling 1 opnieuw van dienst.
 
 ## Invoer:
 ```
-Hoeveel leerlingen telt de klas?:
-Geef het weeknummer op:
+Hoeveel leerlingen telt de klas?: 9
+Geef het weeknummer op: 14
 ```
 
 ## Uitvoer: 
 
 ```
-In week ... is leerling met volgnummer ... van dienst!
+In week 14 is leerling met volgnummer 5 van dienst!
 ```
