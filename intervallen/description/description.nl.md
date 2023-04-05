@@ -1,21 +1,20 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
-
-## Gegeven:
-
-Lees aandachtig de instructies!
+# Behoort een getal tot een bepaald interval?
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma waarmee je één van de vier mogelijke intervallen kan invoeren.
+* Nadien moet het programma vertellen of een bepaald getal al dan niet tot het opgegeven interval behoort.
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Welk soort interval kies je (open of gesloten)?: open
+Wat is de ondergrens van het interval?: 1
+Wat is de bovengrens van het interval?: 5
+
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+
 ```
 De som van 4² en 2³ is gelijk aan ...
+```
