@@ -1,21 +1,17 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
-
-## Gegeven:
-
-Lees aandachtig de instructies!
+# De stelling van Pythagoras (basis)
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma dat vraagt om twee rechthoekszijden van een rechthoekige driehoek in te voeren.
+* Het programma moet de lengte van de schuine zijde berekenen en tonen.
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Wat is de lengte (in cm) van de eerste rechthoekszijde?: 3
+Wat is de lengte (in cm) van de tweede rechthoekszijde?: 4
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
 ```
-De som van 4² en 2³ is gelijk aan ...
+De schuine zijde van deze rechthoekige driehoek is 5 cm.
+```
