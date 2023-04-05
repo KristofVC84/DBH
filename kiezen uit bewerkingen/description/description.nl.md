@@ -1,21 +1,22 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
+# Kiezen uit drie bewerkingen
 
-## Gegeven:
-
-Lees aandachtig de instructies!
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma dat vraagt om twee getallen in te voeren.
+* Vervolgens moet gevraagd worden welke bewerking je wil uitvoeren.
+* Het resultaat moet getoond worden.
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Wat is jouw eerste getal?:
+Wat is jouw tweede getal?:
+Welke bewerking wil je uitvoeren (s/p/v)?:
+(s = som; p = product en v = verschil)
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+
 ```
-De som van 4² en 2³ is gelijk aan ...
+De som van de twee gekozen getallen is ...
+```
