@@ -7,7 +7,7 @@
 
 ## Invoer:
 ```
-Welk getal kies je?: 3
+Van welk getal wil je de veelvouden berekenen?: 3
 ```
 
 ## Uitvoer:
