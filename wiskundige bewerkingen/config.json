@@ -4,16 +4,18 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Voorbeeld oefening",
-      "en": "Example exercise"
+      "nl": "Wiskundige bewerkingen",
+      "en": "Math exercises"
     }
   },
   "evaluation": {
-    "handler": "python",
-    "image": "dodona/dodona-python",
-    "time_limit":
-    "memory_limit": 
-    "network_enabled": 
+    "pythia_judge": "output"
   },
-  "labels": ["voorbeeld", "eenvoudige oefening"],
-  "contact": "Dodona <dodona@ugent.be>"
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "nwcnSjJCMt4X46xPwGmNVg9tcGZJEc2zInCqfNR5ssr6JkkQ-eJF9Jxnxn66qRTn",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
