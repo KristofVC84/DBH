@@ -1,21 +1,26 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
-
-## Gegeven:
-
-Lees aandachtig de instructies!
+# Welke leerling is van dienst?
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Vraag aan de gebruiker achtereenvolgens de grootte van de klas en het weeknummer op. 
+* Het programma geeft het volgnummer van de leerling met borddienst terug. In een klas zitten steeds minstens twee leerlingen!
+* Voorbeeld voor een klas met 5 leerlingen:
+ 
+  In week 1 is leerling 1 van dienst.
+  In week 2 is leerling 2 van dienst.
+  In week 3 is leerling 3 van dienst.
+  In week 4 is leerling 4 van dienst.
+  In week 5 is leerling 5 van dienst.
+  In week 6 is leerling 1 opnieuw van dienst.
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Hoeveel leerlingen telt de klas?:
+Geef het weeknummer op:
 ```
 
-## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+## Uitvoer: 
+
 ```
-De som van 4² en 2³ is gelijk aan ...
+In week ... is leerling met volgnummer ... van dienst.
+```
