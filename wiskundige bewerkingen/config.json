@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Voorbeeld oefening",
-      "en": "Wiskundige bewerkingen (som en machtsverheffing)"
+      "nl": "Wiskundige bewerkingen",
+      "en": "Math exercises"
     }
   },
   "evaluation": {
@@ -15,9 +15,6 @@
     "memory_limit": 10000000,
     "network_enabled": true
   },
-  "labels": [
-    "voorbeeld",
-    "eenvoudige oefening"
-  ],
-  "contact": ""
+  "labels": ["voorbeeld", "wiskundige bewerkingen"],
+  "contact": "KVC <johanzzzzzzzz@hotmail.com>"
 }
