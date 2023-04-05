@@ -1,21 +1,17 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
-
-## Gegeven:
-
-Lees aandachtig de instructies!
+# Het aantal letters in een zin
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma waarmee je een zin en letter kan invoeren. 
+* Het programma telt vervolgens hoeveel keer de letter voorkomt in de zin.
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Voer je zin in: 
+Welke letter kies je?:
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
 ```
-De som van 4² en 2³ is gelijk aan ...
+De letter a komt ... keer voor in de zin.
+```
