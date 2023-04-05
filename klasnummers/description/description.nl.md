@@ -14,7 +14,7 @@ In sommige klassen wordt elke week een andere leerling aangeduid om bijvoorbeeld
 ## Invoer:
 ```
 Hoeveel leerlingen telt de klas?: 9
-Geef het weeknummer op: 14
+Voor welke week wil je de leerling aanduiden?: 14
 ```
 
 ## Uitvoer: 
