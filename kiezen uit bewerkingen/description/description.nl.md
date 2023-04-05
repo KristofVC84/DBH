@@ -17,5 +17,5 @@ Welke bewerking wil je uitvoeren (s/p/v)?: s
 ## Uitvoer:
 
 ```
-De som van 4 en 11 is gelijk aan 15.
+De som van 4 en 11 is gelijk aan 15!
 ```
