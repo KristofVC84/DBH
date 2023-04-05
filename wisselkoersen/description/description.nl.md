@@ -1,8 +1,8 @@
-## Wisselkoersen
+## Wisselkoersen: hoeveel dollar krijg je?
 
 ## Gevraagd:
 
-* Schrijf een programma dat een bedrag in euro omrekent naar een bedrag in euro, rekening houdende met de wisselkoers van vandaag.
+* Schrijf een programma dat een bedrag in euro omrekent naar een bedrag in dollar, rekening houdende met de wisselkoers van vandaag.
 
 ## Invoer:
 ```
@@ -10,7 +10,6 @@ Hoeveel euro wil je omwisselen?: 10
 ```
 
 ## Uitvoer:
-Print de uitkomst op het scherm in de vorm: 
 ```
-Voor 10 euro krijg je ... dollar in de plaats.
+Voor 10 euro krijg je momenteel 10,9 dollar in de plaats.
 ```
