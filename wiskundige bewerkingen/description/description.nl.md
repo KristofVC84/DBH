@@ -16,6 +16,6 @@ Het tweede getal is: 2
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+Print de uitkomst op het scherm in de vorm: 
 ```
 De som van 4² en 2³ is gelijk aan ...
