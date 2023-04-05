@@ -2,12 +2,12 @@
 
 ## Gevraagd:
 
-* Schrijf een programma voor iemand met geboortjeaar 2008.
-* Vervolgens moet het programma vermelden hoe oud die persoon was in de daaropvolgende jaren.
+* Schrijf een programma waarin je geboren bent in 2008.
+* Vervolgens moet het programma vermelden hoe oud je was in de daaropvolgende jaren.
 
 ## Invoer:
 ```
-Wat is jouw geboortejaar?: 2008
+Wat is het geboortejaar?: 2008
 ```
 
 ## Uitvoer:
