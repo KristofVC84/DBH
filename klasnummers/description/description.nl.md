@@ -17,5 +17,5 @@ Geef het weeknummer op:
 ## Uitvoer: 
 
 ```
-In week ... is leerling met volgnummer ... van dienst.
+In week ... is leerling met volgnummer ... van dienst!
 ```
