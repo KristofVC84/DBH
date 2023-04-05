@@ -1,21 +1,23 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
-
-## Gegeven:
-
-Lees aandachtig de instructies!
+# Het snijpunt van twee rechten
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
-
+* Schrijf een programma dat vraagt om het functievoorschrift van twee rechten in te voeren.
+* Vervolgens moet het snijpunt van deze rechten getoond worden.
+* 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Wat is de richtingscoëfficiënt van rechte 1?:  2
+Wat is de constante term van rechte 1?: -6
+
+Wat is de richtingscoëfficiënt van rechte 2 ?: -3 
+Wat is de constante term van rechte 2?: 12
+
+
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+
 ```
-De som van 4² en 2³ is gelijk aan ...
+D
+```
