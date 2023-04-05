@@ -1,21 +1,21 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
-
-## Gegeven:
-
-Lees aandachtig de instructies!
+# De Body Mass Index (BMI)
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma dat jouw ‘BMI’ (Body Mass Index) berekent en jou daarover iets vertelt. 
+* De BMI bereken je door je gewicht (in kg) te delen door je lengte (in m) in het kwadraat.
+* BMI < 18,5 betekent ondergewicht ;  BMI > 25 betekent overgewicht ; 18,5 < BMI < 25 betekent dat je gewicht ok is!
+
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Hoeveel weeg je (in kg)? :
+Hoe groot ben je (in m)? :
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+
 ```
-De som van 4² en 2³ is gelijk aan ...
+Je hebt een BMI van ...
+Je gewicht is ok!
+```
