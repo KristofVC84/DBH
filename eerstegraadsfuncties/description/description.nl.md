@@ -1,21 +1,21 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
-
-## Gegeven:
-
-Lees aandachtig de instructies!
+# Eerstegraadsfuncties
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma dat jou vraagt om een richtingscoëfficiënt m en een constante term q in te voeren.
+* Het functievoorschrift van de rechte moet verschijnen.
+* Er moet vermeld worden of het om een dalende of stijgende rechte gaat en wat het snijpunt is met de y-as.
+* De nulwaarde moet weergegeven worden.
+* Je moet de functiewaarde kunnen berekenen voor een gegeven invoerwaarde
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Kies een waarde voor m: 
+Kies een waarde voor q:
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+
 ```
 De som van 4² en 2³ is gelijk aan ...
+```
