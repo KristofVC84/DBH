@@ -1,21 +1,20 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
+# Vijf producten uitrekenen met vermelding van de score
 
-## Gegeven:
-
-Lees aandachtig de instructies!
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma dat jouw vraagt om de uitkomsten van 5 producten te noteren en vervolgens jouw score berekent. 
+* Het eerste getal moet een random gekozen waarde hebben tussen 1 en 20, het tweede getal een random gekozen waarde tussen 1 en 10. 
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+2 . 7 = 
+
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+
 ```
-De som van 4² en 2³ is gelijk aan ...
+2.7 = 14
+Goed zo!
+```
