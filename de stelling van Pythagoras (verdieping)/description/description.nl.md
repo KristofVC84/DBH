@@ -9,7 +9,7 @@
 
 ## Invoer:
 ```
-Wil je a, b of c berekenen? b
+Wil je a, b of c berekenen?: b
 Welke lengte (in cm) heeft rechthoekszijde a?: 3
 Welke lengte (in cm) heeft de schuine zijde c?: 5
 ```
