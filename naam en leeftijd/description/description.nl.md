@@ -2,16 +2,17 @@
 
 ## Gevraagd:
 
-* Schrijf een code dat eerst naar jouw naam vraagt en nadien naar jouw leeftijd. De begroeting moet nadien getoond worden.
+* Schrijf een programma dat eerst naar jouw naam vraagt en vervolgens naar jouw leeftijd. 
+* De begroeting moet nadien getoond worden.
 
 ## Invoer:
 ```
-Wat is jouw naam?:
-Hoe oud ben je?:
+Wat is jouw naam?: Maite
+Hoe oud ben je?: 15
 ```
 
 ## Uitvoer:
 
 ```
-Dag ...... . Je bent ..... jaar.
+Dag Maite. Je bent 15 jaar.
 ```
