@@ -1,21 +1,19 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
-
-## Gegeven:
-
-Lees aandachtig de instructies!
+# Operatoren: De omtrek en de oppervlakte van een rechthoek.
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma dat vraagt naar de lengte en de breedte van een rechthoek.
+* Vervolgens moet de omtrek en oppervlakte getoond worden.
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Wat is de breedte van de rechthoek (in cm)?:
+Wat is de lengte van de rechthoek (in cm)?:
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+
 ```
-De som van 4² en 2³ is gelijk aan ...
+De omtrek van deze rechthoek is ... cm
+De oppervlakte van deze rechthoek is ... cm²
+```
