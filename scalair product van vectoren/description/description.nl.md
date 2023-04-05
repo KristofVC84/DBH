@@ -1,21 +1,22 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
+# Het scalair product van twee vectoren
 
-## Gegeven:
-
-Lees aandachtig de instructies!
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma dat vraagt om de coördinaten van twee vectoren in te voeren.
+* Het programma geeft aan wat het scalair product is van de twee vectoren.
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Wat is de x-coördinaat van de eerste vector?:  2
+Wat is de y-coördinaat van de eerste vector?:  3
+Wat is de x-coördinaat van de tweede vector?:  -4
+Wat is de y-coördinaat van de tweede vector?:  5
+
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+
 ```
 De som van 4² en 2³ is gelijk aan ...
+```
