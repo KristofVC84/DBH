@@ -1,9 +1,10 @@
-# De eerste 10 veelvouden van een getal
+# De eerste 10 veelvouden van een getal (for-lus)
 
 
 ## Gevraagd:
 
 * Schrijf een programma dat jou naar een getal vraagt en de eerste tien veelvouden van dat getal toont (beginnend vanaf 1 . getal)
+* Maak gebruik van een for-lus!
 
 ## Invoer:
 ```
