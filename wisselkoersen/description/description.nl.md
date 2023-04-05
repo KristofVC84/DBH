@@ -1,21 +1,16 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
-
-## Gegeven:
-
-Lees aandachtig de instructies!
+## Wisselkoersen
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma dat een bedrag in euro omrekent naar een bedrag in euro, rekening houdende met de wisselkoers van vandaag.
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Hoeveel euro wil je omwisselen?: 10
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+Print de uitkomst op het scherm in de vorm: 
 ```
-De som van 4² en 2³ is gelijk aan ...
+Voor 10 euro krijg je ... dollar in de plaats.
+```
