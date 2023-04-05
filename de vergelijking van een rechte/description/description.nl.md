@@ -14,5 +14,5 @@ Wat is de y-coördinaat van het punt waardoor de rechte moet lopen?:  -1
 
 ## Uitvoer: 
 ```
-
+De vergelijking van de rechte is 
 ```
