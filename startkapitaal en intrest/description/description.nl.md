@@ -3,7 +3,7 @@
 ## Gevraagd:
 
 * Schrijf een programma dat naar een startkapitaal en het jaarlijkse rentepercentage vraagt. 
-* Vervolgens moet er getoond worden welk bedrag (op 0,1 nauwkeurig) je gespaard hebt na 1,2, … , 10 jaar.
+* Vervolgens moet er getoond worden welk bedrag (op 0,1 nauwkeurig) je gespaard hebt na 1,2, … ,10 jaar.
 
 ## Invoer:
 ```
