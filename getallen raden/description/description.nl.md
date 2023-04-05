@@ -10,7 +10,7 @@
 
 
 ## Invoer en uitvoer:
-```
+
 Hoeveel keer wil je spelen?: 3
 Kies een getal van 1 tot en met 4: 2
 De computer koos 2.
