@@ -14,6 +14,6 @@ Wat is de lengte van de rechthoek (in cm)?: 5
 ## Uitvoer:
 
 ```
-De omtrek van deze rechthoek is 18 cm
-De oppervlakte van deze rechthoek is 20 cm²
+De omtrek van deze rechthoek is 18 cm.
+De oppervlakte van deze rechthoek is 20 cm².
 ```
