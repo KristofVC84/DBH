@@ -16,5 +16,5 @@ Hoe groot ben je (in m)? : 1.79
 
 ```
 Je hebt een BMI van 29,6.
-Je hebt overgewicht!
+Je hebt overgewicht.
 ```
