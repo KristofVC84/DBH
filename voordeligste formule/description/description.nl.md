@@ -21,5 +21,6 @@ Op hoeveel km woon je van beide bedrijven?: 20
 ## Uitvoer:
 
 ```
-Bij bedrijf A betaal je in totaal 50 euro en bij bedrijf B 65 euro. Bedrijf A is dus het goedkoopst!
+Bij bedrijf A betaal je in totaal 50 euro en bij bedrijf B 65 euro. 
+Bedrijf A is dus het goedkoopst!
 ```
