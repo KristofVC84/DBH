@@ -11,7 +11,7 @@ Hoe oud ben je?:
 ```
 
 ## Uitvoer:
-De begroeting moet als volgt getoond worden:
+
 ```
 Dag ...... . Je bent ..... jaar.
 ```
