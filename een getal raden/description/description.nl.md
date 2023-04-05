@@ -1,21 +1,20 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
-
-## Gegeven:
-
-Lees aandachtig de instructies!
+# Een getal raden (hoger of lager)
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma dat een willekeurig getal tussen 1 en 10 kiest. 
+* Vervolgens moet de gebruiker dat getal raden. 
+* Er moet verschijnen of het ingevoerde getal te hoog of te laag is. 
+* Op basis van deze info kan de gebruiker een nieuwe poging ondernemen. 
+* Aan het einde moet het juiste aantal pogingen vermeld worden.
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Welk getal kies je?:
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+
 ```
-De som van 4² en 2³ is gelijk aan ...
+
+```
