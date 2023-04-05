@@ -3,17 +3,17 @@
 ## Gevraagd:
 
 * Schrijf een programma dat vraagt naar de lengte en de breedte van een rechthoek.
-* Vervolgens moet de omtrek en oppervlakte getoond worden.
+* Vervolgens moeten de omtrek en oppervlakte getoond worden.
 
 ## Invoer:
 ```
-Wat is de breedte van de rechthoek (in cm)?:
-Wat is de lengte van de rechthoek (in cm)?:
+Wat is de breedte van de rechthoek (in cm)?: 4
+Wat is de lengte van de rechthoek (in cm)?: 5
 ```
 
 ## Uitvoer:
 
 ```
-De omtrek van deze rechthoek is ... cm
-De oppervlakte van deze rechthoek is ... cm²
+De omtrek van deze rechthoek is 18 cm
+De oppervlakte van deze rechthoek is 20 cm²
 ```
