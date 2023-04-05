@@ -1,21 +1,27 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
+# De eerste 10 veelvouden van een getal
 
-## Gegeven:
-
-Lees aandachtig de instructies!
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma dat jou naar een getal vraagt en de eerste tien veelvouden van dat getal toont (beginnend vanaf 1 . getal)
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Welk getal kies je?: 3
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+
 ```
-De som van 4² en 2³ is gelijk aan ...
+1.3 = 3
+2.3 = 6
+3.3 = 9
+4.3 = 12
+5.3 = 15
+6.3 = 18
+7.3 = 21
+8.3 = 24
+9.3 = 27
+10.3 = 30
+
+```
