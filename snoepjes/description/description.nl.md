@@ -1,21 +1,24 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
-
-## Gegeven:
-
-Lees aandachtig de instructies!
+# Aantal snoepjes
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma dat vraagt naar het aantal aanwezigen op een feestje en het aantal beschikbare snoepjes. 
+* Vervolgens moet het programma uitrekenen hoeveel snoepjes elke aanwezige krijgt en hoeveel snoepjes er over zijn. 
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Hoeveel aanwezigen zijn er op jouw feestje?:
+Hoeveel snoepjes heb je?:
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+
 ```
-De som van 4² en 2³ is gelijk aan ...
+Aantal snoepjes per persoon:
+Aantal snoepjes op overschot:
+```
+of
+
+```
+Je hebt geen snoepjes genoeg!
+```
