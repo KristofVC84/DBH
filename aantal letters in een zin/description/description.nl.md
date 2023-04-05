@@ -2,16 +2,16 @@
 
 ## Gevraagd:
 
-* Schrijf een programma waarmee je een zin en letter kan invoeren. 
+* Schrijf een programma waarmee je een zin en een letter kan invoeren. 
 * Het programma telt vervolgens hoeveel keer de letter voorkomt in de zin.
 
 ## Invoer:
 ```
-Voer je zin in: 
-Welke letter kies je?:
+Voer je zin in: Wiskunde is leuk!
+Welke letter kies je?: e
 ```
 
 ## Uitvoer:
 ```
-De letter a komt ... keer voor in de zin.
+De letter e komt 2 keer voor in jouw zin.
 ```
