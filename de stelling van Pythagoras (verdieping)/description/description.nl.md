@@ -17,5 +17,5 @@ Welke lengte (in cm) heeft de schuine zijde c?: 5
 ## Uitvoer:
 
 ```
-De rechthoekszijde b is 4 cm.
+De rechthoekszijde b is 4 cm lang.
 ```
