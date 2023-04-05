@@ -7,8 +7,8 @@
 
 ## Invoer:
 ```
-Hoeveel km heb je gelopen?: 1O
-Hoeveel minuten deed je hierover?: 60
+Hoeveel km heb je gelopen?: 20
+Hoeveel minuten deed je hierover?: 120
 ```
 
 ## Uitvoer:
