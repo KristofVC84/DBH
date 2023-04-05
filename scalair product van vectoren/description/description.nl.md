@@ -18,5 +18,5 @@ Wat is de y-coördinaat van de tweede vector?:  5
 ## Uitvoer:
 
 ```
-De som van 4² en 2³ is gelijk aan ...
+Het scalair product
 ```
