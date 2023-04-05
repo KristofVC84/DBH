@@ -1,4 +1,4 @@
-# Startkapitaal en intrest
+# Startkapitaal en samengestelde intrest
 
 ## Gevraagd:
 
@@ -7,7 +7,7 @@
 
 ## Invoer:
 ```
-Wat is jouw startkapitaa in eurol?: 100 
+Hoeveel euro startkapitaal heb je?: 100 
 Hoeveel % intrest krijg je jaarlijks?: 2
 ```
 
