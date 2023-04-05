@@ -1,21 +1,21 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
-
-## Gegeven:
-
-Lees aandachtig de instructies!
+# Wat is de goedkoopste formule?
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma dat voor twee bedrijven vraagt naar de vaste vergoeding én naar de prijs per km.
+* Laat het programma uitrekenen en vertellen welke formule het goedkoopst is.
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Hoeveel euro bedraagt de vaste vergoeding bij bedrijf A?:
+Hoeveel euro vraagt bedrijf A per gereden km?:
+
+Hoeveel euro bedraagt de vaste vergoeding bij bedrijf B?:
+Hoeveel euro vraagt bedrijf B per gereden km?:
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+
 ```
-De som van 4² en 2³ is gelijk aan ...
+Bij bedrijf A betaal je in totaal ... euro en bij bedrijf B ... euro. Bedrijf ... is dus het goedkoopst!
+```
