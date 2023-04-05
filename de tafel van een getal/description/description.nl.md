@@ -1,21 +1,35 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
-
-## Gegeven:
-
-Lees aandachtig de instructies!
+# De tafel van een getal
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma dat de tafel van een bepaald getal toont (beginnen bij '1 maal' en eindigend bij '20 maal')
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Van welk getal wil je de tafel zien?: 5
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+
 ```
-De som van 4² en 2³ is gelijk aan ...
+1.5 = 5
+2.5 = 10
+3.5 = 15
+4.5 = 20
+5.5 = 25
+6.5 = 30
+7.5 = 35
+8.5 = 40
+9.5 = 45
+10.5 = 50
+11.5 = 55
+12.5 = 60
+13.5 = 65
+14.5 = 70
+15.5 = 75
+16.5 = 80
+17.5 = 85
+18.5 = 90
+19.5 = 95
+20.5 = 100
+```
