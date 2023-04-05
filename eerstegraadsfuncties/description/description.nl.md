@@ -17,5 +17,5 @@ Kies een waarde voor q:
 ## Uitvoer:
 
 ```
-De som van 4² en 2³ is gelijk aan ...
+
 ```
