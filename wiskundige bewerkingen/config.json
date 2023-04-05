@@ -1,11 +1,19 @@
 {
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
   "description": {
     "names": {
-      "en": "Aeneid",
-      "nl": "Aeneis"
+      "nl": "Voorbeeld oefening",
+      "en": "Example exercise"
     }
   },
-  "type": "content",
-  "access": "public",
-  "labels": ["test", "intro"]
-}
+  "evaluation": {
+    "handler": "python",
+    "image": "dodona/dodona-python",
+    "time_limit": 10,
+    "memory_limit": 10000000,
+    "network_enabled": true
+  },
+  "labels": ["voorbeeld", "eenvoudige oefening"],
+  "contact": "Dodona <dodona@ugent.be>"
