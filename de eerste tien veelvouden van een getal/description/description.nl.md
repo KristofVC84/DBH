@@ -3,7 +3,7 @@
 
 ## Gevraagd:
 
-* Schrijf een programma dat jou naar een getal vraagt en de eerste tien veelvouden van dat getal toont (beginnend vanaf 1 . getal)
+* Schrijf een programma dat jou naar een getal vraagt en de eerste vijf veelvouden van dat getal toont (beginnend vanaf 0)
 * Maak gebruik van een for-lus!
 
 ## Invoer:
@@ -14,15 +14,10 @@ Van welk getal wil je de veelvouden berekenen?: 3
 ## Uitvoer:
 
 ```
-1.3 = 3
-2.3 = 6
-3.3 = 9
-4.3 = 12
-5.3 = 15
-6.3 = 18
-7.3 = 21
-8.3 = 24
-9.3 = 27
-10.3 = 30
+0
+3
+6
+9
+12
 
 ```
