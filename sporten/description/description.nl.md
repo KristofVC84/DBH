@@ -1,21 +1,41 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
-
-## Gegeven:
-
-Lees aandachtig de instructies!
+# Sporten
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma waarbij je een lijst maakt met 3 sporten die je graag bekijkt op tv. 
+* Vervolgens moet je deze sporten één voor één laten printen, met onder elke sport telkens de letters die voorkomen in de sport. 
+* Er mag echter nooit een ‘o’ getoond worden bij de afzonderlijke letters.
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+sporten = [voetbal, wielrennen, boksen]
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+
 ```
-De som van 4² en 2³ is gelijk aan ...
+voetbal
+v
+e
+t
+b
+a
+l
+wielrennen
+w
+i
+e
+l
+r
+e
+n
+n
+e
+n
+boksen
+b
+k
+s
+e
+n
+```
