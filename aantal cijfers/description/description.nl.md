@@ -1,21 +1,31 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
-
-## Gegeven:
-
-Lees aandachtig de instructies!
+# Aantal cijfers
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma dat vraagt om een positief geheel getal in te voeren.
+* Het programma moet zeggen of het getal uit 1, 2, 3 of meer dan 3 cijfers bestaat.
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Voer een positief geheel getal in: 8
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+
 ```
-De som van 4² en 2³ is gelijk aan ...
+Dit getal bestaat uit één cijfer!
+
+```
+of
+
+## Invoer:
+```
+Voer een positief geheel getal in: 999
+```
+
+## Uitvoer:
+
+```
+Dit getal bestaat uit drie cijfers!
+
+```
