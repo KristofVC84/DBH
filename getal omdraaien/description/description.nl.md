@@ -8,11 +8,11 @@
 
 ## Invoer:
 ```
-Kies een getal dat uit twee cijfers bestaat: 59
+Kies een getal dat uit twee cijfers bestaat: 49
 ```
 
 ## Uitvoer:
 
 ```
-Als we de cijfers van plaats wisselen, krijgen we 95.
+Als we de cijfers van plaats wisselen, krijgen we 94.
 ```
