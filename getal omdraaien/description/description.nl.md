@@ -1,21 +1,18 @@
-# Operatoren: Wiskundige bewerkingen (som en machtsverheffing)
+# Een getal omdraaien
 
-## Gegeven:
-
-Lees aandachtig de instructies!
 
 ## Gevraagd:
 
-* Schrijf een programma dat de gebruiker vraagt om twee gehele getallen in te voeren. 
-* Vervolgens moet de som getoond worden tussen het kwadraat van het eerste getal en de derdemacht van het tweede getal.
+* Schrijf een programma dat vraagt om een getal van 2 cijfers in te voeren. 
+* Vervolgens moet dit getal omgedraaid worden.
 
 ## Invoer:
 ```
-Het eerste getal is: 4
-Het tweede getal is: 2
+Kies een getal dat uit twee cijfers bestaat: 59
 ```
 
 ## Uitvoer:
-`Print` de uitkomst op het scherm in de vorm: 
+
 ```
-De som van 4² en 2³ is gelijk aan ...
+Als we de cijfers van plaats wisselen, krijgen we 95.
+```
