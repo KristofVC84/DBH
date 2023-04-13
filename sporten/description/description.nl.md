@@ -4,7 +4,7 @@
 
 * Schrijf een programma waarbij je een lijst maakt met 3 sporten die je graag bekijkt op tv. 
 * Vervolgens moet je deze sporten één voor één laten printen, met onder elke sport telkens de letters die voorkomen in de sport. 
-* Er mag echter nooit een ‘o’ getoond worden bij de afzonderlijke letters.
+* Er mogen echter geen klinkers getoond worden bij de afzonderlijke letters.
 
 ## Invoer:
 ```
