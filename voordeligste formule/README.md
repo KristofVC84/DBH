@@ -1,2 +1,2 @@
-# Computationeel Denken met Python
-Differentiatieroute voor verwerking op eigen tempo!
+# Computationeel denken met Python
+Differentiatietraject voor verwerking op eigen tempo!
