@@ -18,5 +18,5 @@ Wat is de y-coördinaat van punt B?: 5
 ## Uitvoer:
 
 ```
-De afstand tussen de punten A(2,-3) en B(4,5) is 6,32.
+De afstand tussen de punten A(2,-3) en B(4,5) is 8,25.
 ```
