@@ -1,15 +1,16 @@
-# De vergelijking van een rechte opstellen als de rico en één punt gekend zijn
+# De symmetrieas en de top van parabolen
 
 ## Gevraagd:
 
-* Schrijf een programma dat de vergelijking van een rechte opstelt op basis van een gekende rico en één gegeven punt.
+* Schrijf een programma dat vraagt om een waarde voor a, b en c in te voeren voor f(x) = ax² + bx + c.
+* Vervolgens moet verschijnen of het om een dal-of bergparabool gaat.
+* Nadien krijgen we de vergelijking van de symmetrieas en de coördinaat van de top.
 
 ## Invoer en uitvoer:
 ```
-Wat is de richtingscoëfficiënt van de rechte?: 4 
-Wat is de x-coördinaat van het punt waardoor de rechte moet lopen?:  2
-Wat is de y-coördinaat van het punt waardoor de rechte moet lopen?:  -1
-We zoeken dus de vergelijking van de rechte met richtingscoëfficiënt 4 door het punt (2,-1)
-De vergelijking van de rechte is ‘y = 4x – 9’.
+f(x) = 3x² - 2x + 5
+De grafiek is een ...
+De vergelijking van de symmetrieas is ...
+De coördinaat van de top is ...
 
 ```
