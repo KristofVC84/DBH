@@ -23,6 +23,8 @@ De discriminant is 49.
 De vergelijking heeft twee oplossingen.
 V = {-6,1}
 
+```
+
 of
 
 ## Invoer:
