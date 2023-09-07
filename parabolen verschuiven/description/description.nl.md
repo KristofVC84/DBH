@@ -1,31 +1,26 @@
-# Aantal cijfers
+# Het functievoorschrift f(x) = a(x-alfa)² + beta
 
 ## Gevraagd:
 
-* Schrijf een programma dat vraagt om een positief geheel getal in te voeren.
-* Het programma moet zeggen of het getal uit 1, 2, 3 of meer dan 3 cijfers bestaat.
+* Schrijf een programma dat vraagt om een waarde voor a, alfa en beta in te voeren.
+* Het programma moet het functievoorschrift tonen.
+* Het programma moet de vorm weergeven (dal-of bergparabool).
+* Het programma moet de vergelijking van de symmetrieas tonen.
+* Het programma moet de coördinaat van de top tonen.
 
 ## Invoer:
 ```
-Voer een positief geheel getal in: 8
+Kies een waarde voor a: 3
+Kies een waarde voor alfa: -2
+Kies een waarde voor beta: 4
 ```
 
 ## Uitvoer:
 
 ```
-Dit getal bestaat uit één cijfer!
-
-```
-of
-
-## Invoer:
-```
-Voer een positief geheel getal in: 999
-```
-
-## Uitvoer:
-
-```
-Dit getal bestaat uit drie cijfers!
+f(x) = 3(x+2)² + 4
+Vorm: dalparabool
+Vergelijking symmetrieas: x = -2
+Coördinaat top: (-2,4)
 
 ```
