@@ -1,27 +1,42 @@
-# Startkapitaal en samengestelde intrest
+# De discriminant (wortelformule)
 
 ## Gevraagd:
 
-* Schrijf een programma dat naar een startkapitaal en het jaarlijkse rentepercentage vraagt. 
-* Vervolgens moet er getoond worden welk bedrag (op 0,1 nauwkeurig) je gespaard hebt na 1,2, … ,10 jaar.
+* Schrijf een programma dat vraagt naar a, b en c in ax² + bx + c = 0.
+* De vergelijking moet getoond worden.
+* De discriminant moet getoond worden.
+* Er moet verschijnen hoeveel oplossingen er zijn.
+* De oplossingsverzameling moet verschijnen.
 
 ## Invoer:
 ```
-Hoeveel euro startkapitaal heb je?: 100 
-Hoeveel % intrest krijg je jaarlijks?: 2
+Kies een waarde voor a: 1
+Kies een waarde voor b: 5
+Kies een waarde voor c: -6
+
 ```
 
 ## Uitvoer:
 ```
-Na 1 jaar heb je 102 euro.
-Na 2 jaar heb je 104 euro.
-Na 3 jaar heb je 106,1 euro.
-Na 4 jaar heb je 108,2 euro.
-Na 5 jaar heb je 110,4 euro.
-Na 6 jaar heb je 112,6 euro.
-Na 7 jaar heb je 114,9 euro.
-Na 8 jaar heb je 117,1 euro.
-Na 9 jaar heb je 119,5 euro.
-Na 10 jaar heb je 121,9 euro.
+We lossen de vergelijking x² + 5x - 6 = O op.
+De discriminant is 49.
+De vergelijking heeft twee oplossingen.
+V = {-6,1}
+
+of
+
+## Invoer:
+```
+Kies een waarde voor a: -1
+Kies een waarde voor b: 2
+Kies een waarde voor c: -11
+
+```
+
+## Uitvoer:
+```
+We lossen de vergelijking -x² + 2x - 11 = O op.
+De discriminant is -40.
+De vergelijking heeft geen oplossingen.
 
 ```
